@@ -11,7 +11,7 @@ Enter your youtube url, then you get a mp4 file(Youtube Video) and a wav file(Mu
 In list.csv, you can enter the url of Youtube link, timelines that you want to get and title of mp4 files.
 
 You should enter your timeline and title like down.
-ex) timeline - 0:13~0:24, 2:41~3:05 
+ex) timeline - 0:13~\0:24, 2:41~\3:05 
     title - One, Two
 
 #Run
