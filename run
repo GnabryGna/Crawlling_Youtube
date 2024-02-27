@@ -1,0 +1,9 @@
+#!/bin/bash
+
+pip install pytube
+pip install moviepy
+pip install pandas
+pip install tqdm
+ 
+cd /Users/ganbrygna/Desktop/crawling/
+python3 main.py
